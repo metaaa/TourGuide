@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--HEIGHT AND WIDTH FOE THE LIST IMAGES-->
+    <dimen name="LIST_IMAGE_HEIGHT">100dp</dimen>
+    <dimen name="LIST_IMAGE_WIDTH">100dp</dimen>
+    <!--ITEM HEIGHT WHEN USING WEIGHT-->
+    <dimen name="NULL_DP">0dp</dimen>
+    <!--FONT SIZE FOR NAMES IN LIST-->
+    <dimen name="LIST_NAME">16sp</dimen>
+    <!--FONT SIZE FOR DETAILED NAME-->
+    <dimen name="DETAILED_NAME">24sp</dimen>
+    <!--LIST ITEMS PADDINGS-->
+    <dimen name="PADDING">16dp</dimen>
+    <!--DETAILED VIEW IMAGE HEIGHT-->
+    <dimen name="DETAILED_HEIGHT">200dp</dimen>
+</resources>

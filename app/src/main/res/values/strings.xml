@@ -1,0 +1,138 @@
+<resources>
+    <!--NAME OF THE APP-->
+        <string name="app_name">Szeged tour guide</string>
+    <!--STRINGS FOR THE SIGHTS_LIST-->
+        <!--SYNAGOGUE-->
+        <string name="synagogue_name">The New Synagogue</string>
+        <string name="synagogue_address">Jósika street 10.</string>
+        <string name="synagogue_description">Jewish Hungarian architect Lipót Baumhorn designed this stunning Art Nouveau Synagogue in 1903; construction was completed in 1907 and the synagogue opened its doors to the city’s Jewish community that very year. Today, it is the second largest synagogue in Hungary and the fourth largest in the world. The work of Hungarian glass artist Miksa Róth adorns the great dome as well as the synagogue’s stained glass windows and the building is known for its intricate beauty, making it a must see in Szeged.</string>
+        <string name="synagogue_location">46.253930, 20.142559</string>
+        <!--REOK PALACE-->
+        <string name="reok_name">Reök Palace</string>
+        <string name="reok_address">Magyar Ede square 2.</string>
+        <string name="reok_description">This striking building is worth a visit both for its stunning architecture, for which Hungarian architect Ede Magyar (also known as the Hungarian Gaudí) is to thank, and for its function as home to the Regional Arts Centre. Built in the Art Nouveau style in 1907, the building was originally used for residential purposes. Today, it plays host to art exhibitions, musical performances and cultural events while both locally and internationally renowned artists have been featured here, including Picasso and Rembrandt.</string>
+        <string name="reok_location">46.253930, 20.142559</string>
+        <!--OLD LADY WATER TOWER-->
+        <string name="oldlady_name">\"The Old Lady Water Tower\"</string>
+        <string name="oldlady_address">Szent István square</string>
+        <string name="oldlady_description">Since it was built in 1904, Szeged’s water tower has been serving the city and continues to do so to this day. It is the oldest reinforced concrete water tower in Hungary to still be in operation. Thanks to its functional purpose, the tower is open on a limited number of days throughout the year and if you’re lucky enough to be in the city for the occasion, it’s well worth a visit. A climb to the top of the water tower reveals beautiful views over Szeged while there are also exhibitions inside for those who want to learn more about its history.\nThe tower is open on the first Saturday of the month, between April – October from 10am – 4pm.</string>
+        <string name="oldlady_location">46.251746, 20.145023</string>
+        <!--MORA FERENC MUSEUM-->
+        <string name="moramuseum_name">Móra Ferenc Museum</string>
+        <string name="moramuseum_address">Roosevelt square 1–3.</string>
+        <string name="moramuseum_description">Founded in 1883 and opened in 1896, the Palace of Culture (as it is also known) houses a number of permanent and temporary collections of works relating to natural sciences, art, traditional trades and more. The building itself was constructed in the neoclassical style and is named after Móra Ferenc, who was the museums director between 1917 – 1934. Visitors can check out permanent exhibitions such as “We have only one Earth”, which focuses on natural history, and The History of Paprika, Hungary’s favourite spice. Temporary exhibitions have featured works from artists such as Hungarian painter Mihály Munkácsy and Hungarian-French artist Victor Vasarely.</string>
+        <string name="moramuseum_location">46.252317, 20.152037</string>
+        <!--VOTIVE CHURCH-->
+        <string name="votivechurch_name">The Votive Church of Szeged</string>
+        <string name="votivechurch_address">Dóm tér 15.</string>
+        <string name="votivechurch_description">In 1879, a great flood wiped away many of Szeged’s buildings, wreaking destruction on the city. As a result, the city vowed to create a Catholic Cathedral and in 1913, construction of the Votive Church of Szeged began. A winning design was selected from 35 entries and the church stands on the grounds of what used to be the medieval St Demeter Church, whose Dömötör Tower can still be seen today. The interior of the cathedral is open to visitors, and its tower can be climbed for stunning panoramic views over Szeged.</string>
+        <string name="votivechurch_location">46.248929, 20.149232</string>
+        <!--ANNA SPRING-->
+        <string name="annaspring_name">Anna Spring</string>
+        <string name="annaspring_address">Anna kút</string>
+        <string name="annaspring_description">Szeged wanted its own spring, so it began to dig for a thermal well at this spot. Almost a kilometre down, they found some of the most mineral rich water deposit ever. Dezso Patzauer in 1937 took out a lease on this place and named it after his daughter. Today the spa offers full scale medicinal and relaxation wellness through its various thermal baths: There are a lukewarm family bubbling pool, a children’s pool, an experience pool, a swimming-pool and a medicinal pool; also, there are an aromatic chamber, a steam chamber, and infra shower and a Finnish Sauna.</string>
+        <string name="annaspring_location">46.255873, 20.148583</string>
+    <!--STRINGS FOR THE TODO_LIST-->
+        <!--SQUARES-->
+        <string name="squares_name">Visit one of the city’s squares</string>
+        <string name="squares_address">Széchenyi Square, Szent István square…</string>
+        <string name="squares_description">Szeged is home to some beautiful outdoor spaces, and its squares are often buzzing with students, locals and visitors enjoying the stunning architecture and chilled out atmosphere. Many argue that Dóm tér is the city’s most beautiful square, surrounded as it is by iconic buildings such as the Votive Church and Dömötör Tower (the oldest building in Szeged). Every summer, the square also plays host to the Szeged Open-Air Festival which is a theatrical and operatic extravaganza.\nOther squares of note in the city include the vast Széchenyi tér, a popular park which often features events and festivals; and Dugonics tér, which has a musical fountain and is well loved by students thanks to its proximity to the city’s main university building.</string>
+        <string name="squares_location">46.253997, 20.149072</string>
+        <!--SZEGED ZOO-->
+        <string name="zoo_name">Visit Szeged Zoo</string>
+        <string name="zoo_address">Cserepes sor 47.</string>
+        <string name="zoo_description">Since opening its doors in 1989, Szeged’s zoo has gone on to become the largest in Hungary, covering 106 acres and housing over 200 different species. Large enclosures are climate controlled and kept as natural as possible, providing a great environment in which to visit and learn more about the animals who live in the zoo – including a number of endangered species. Educational programs, feeding shows and a petting zoo are just some of the activities to be enjoyed here. With a focus on wildlife conservation, the zoo also operates a rescue centre at which injured, orphaned or illegally smuggled animals are treated and cared for.</string>
+        <string name="zoo_location">46.251836, 20.118537</string>
+        <!--KARASZ STREET-->
+        <string name="karasz_name">Take a walk down Kárász street</string>
+        <string name="karasz_address">Kárász street</string>
+        <string name="karasz_description">Running from Széchenyi tér to Dugonics tér, a walk down this charming pedestrianised street reveals an abundance of cafés, outdoor terraces and shops. A bustling thoroughfare of social activity, the street is lined with beautifully renovated, colorful buildings and is the perfect place for a spot of people watching over a coffee.</string>
+        <string name="karasz_location">46.252594, 20.147971</string>
+        <!--BOTANICAL GARDEN-->
+        <string name="botanicalgarden_name">Visit the Botanical Garden</string>
+        <string name="botanicalgarden_address">Lövölde street 42.</string>
+        <string name="botanicalgarden_description">The foundations of Szeged’s botanical garden, maintained by the University of Szeged, were first laid in 1922 with plants collected by the University’s founding director István Gyorffy. Over the years which followed, different elements were added. In 1929 – 30, the first greenhouse appeared, while in 1931 the garden got its first lake.  Now, the 24 acre oasis is an important centre for environmental education and conservation – both for the university and those who visit. A diverse collection of flora and fauna await, with over 40 protected species on show, and every year, in celebration of the Indian Lotus coming into bloom, the popular Lotus Days Festival is held. A number of garden animals, such as birds and butterflies, can also be seen in this peaceful, relaxing haven.</string>
+        <string name="botanicalgarden_location">46.231588, 20.159140</string>
+        <!--WITCH ISLAND-->
+        <string name="witchisland_name">Explore Witch Island</string>
+        <string name="witchisland_address">Boszorkánysziget street</string>
+        <string name="witchisland_description">Between 1728 – 1729, complaints of drought and famine in Szeged led the authorities to lay blame at the feet of suspected witches in order to pacify the population. The result was the largest witch hunt in Hungary’s history and a round of public executions, with between 12 – 14 people burnt at the stake on the Boszorkánysziget peninsula of the Tisza river (also known as the Island of Witches). Today the island is a popular place to take a walk or bike ride, with a hauntingly fascinating history.</string>
+        <string name="witchisland_location">46.2199176, 20.1471633</string>
+    <!--STRINGS FOR THE TODO_LIST-->
+        <!--TISZAVIRÁG RESTAURANT-->
+        <string name="tiszavirag_name">Tiszavirág Restaurant</string>
+        <string name="tiszavirag_address">Hajnóczy street 1.</string>
+        <string name="tiszavirag_description">Found in a beautifully renovated historical building, this elegant restaurant focuses on fine dining with an element of home cooking to keep things relaxed. Fresh local ingredients create a menu featuring both international and Hungarian cuisine with a modern twist. Light, bright and stylish, it’s a great place to enjoy a slightly more upscale meal in Szeged.</string>
+        <string name="tiszavirag_location">46.253476, 20.145067</string>
+        <!--MALATA BEER AND GRILL-->
+        <string name="malata_name">Maláta Beer and Grill</string>
+        <string name="malata_address">Somogyi street 13.</string>
+        <string name="malata_description">Craft beer, gourmet burgers, an outdoor garden in which to enjoy the summer sun…this relaxed restaurant is a favourite with visitors and locals, and it’s not hard to see why. Food is simple and well-prepared, with a number of grilled dishes featured on the menu, but it’s the burgers which are the real star here. Outside, the relaxed garden (or ‘kert’) is reminiscent of Budapest’s ruin bars, with a chill atmosphere and colourfully mismatched furniture.</string>
+        <string name="malata_location">46.250294, 20.148021</string>
+        <!--JOBB MINT OTTHON KISVENDEGLO-->
+        <string name="jobbotthon_name">Jobb Mint Otthon Kisvendéglő</string>
+        <string name="jobbotthon_address">Napos street 5/b.</string>
+        <string name="jobbotthon_description">Operated by the same company which runs the hugely popular Kiskőrössy Halászcsárda (see below), the name of this restaurant translates as “Better than at Home,” which effectively describes its philosophy: to create delicious, home-cooked meals using fresh ingredients. The food is excellent and the setting is stunning. Overlooking Lencsés Horgásztá, there is a terrace that juts out onto the water and is popular during the summer months thanks to the beautiful views and weather.</string>
+        <string name="jobbotthon_location">46.267562, 20.123056</string>
+        <!--KISKOROSSY HALASZCSARDA-->
+        <string name="kiskorossy_name">Kiskőrössy Halászcsárda</string>
+        <string name="kiskorossy_address">Felső Tisza-part 336.</string>
+        <string name="kiskorossy_description">Halászlé (fisherman’s soup) is a popular traditional Hungarian dish, enjoyed throughout the country. Thanks to Szeged’s location on the Tisza river, it’s also a local specialty and the city has its own version called Szegedi Halászlé. A number of restaurants focus on the spicy fish soup throughout Szeged, but Kiskőrössy Halászcsárda is one of the best places to taste it. A riverfront restaurant with outdoor seating during the warmer months, the traditional vibe and delicious food are reason enough to head to this local eatery.</string>
+        <string name="kiskorossy_location">46.256239, 20.180526</string>
+        <!--PIZZA E PASTA-->
+        <string name="pizzaepasta_name">Pizza e Pasta</string>
+        <string name="pizzaepasta_address">Klauzál square 6.</string>
+        <string name="pizzaepasta_description">Italian cuisine, a relaxed atmosphere and service with a smile can all be found at this homely eatery on Szeged’s picturesque Klauzál Tér. True to its name, pizza and pasta are the primary dishes served here and their reputation in the city is pretty much unrivalled.</string>
+        <string name="pizzaepasta_location">46.252015, 20.147806</string>
+        <!--SZEGED ETTEREM-->
+        <string name="szegedetterem_name">Szeged Étterem</string>
+        <string name="szegedetterem_address">Széchenyi square 9.</string>
+        <string name="szegedetterem_description">Hungarian cuisine with an international twist, accompanied by a selection of interesting local wines from the restaurant’s cellar, can be found at this tavern-style basement restaurant. Both intimate and elegant, it’s a popular place for romantic meals and special occasions and there’s also a business lunch menu for hungry diners who want a more affordable, quick option mid-day.</string>
+        <string name="szegedetterem_location">46.254953, 20.148692</string>
+        <!--CIRMI GASZTROPUB-->
+        <string name="cirmi_name">Cirmi Gastropub</string>
+        <string name="cirmi_address">Tisza Lajos krt. 76.</string>
+        <string name="cirmi_description">Burgers bigger than your head and a menu of hearty fare means nobody goes hungry at the relaxed local gastropub that is Cirmi. Delicious desserts, quirky interior decorations (a wall made of suitcases is just one example) and an outdoor beer garden in which to spend those long sunny summer days are just a few more reasons why this is one of Szeged’s best places to eat.</string>
+        <string name="cirmi_location">46.248366, 20.145468</string>
+        <!--TAJ MAHAL RESTAURANT-->
+        <string name="tajmahal_name">Taj Mahal Restaurant</string>
+        <string name="tajmahal_address">Gutenberg street 12.</string>
+        <string name="tajmahal_description">You’ve eaten all the burgers you can, tasted the local specialties, and are craving something a little more…exotic. If this is the case, Taj Mahal has got your back! Fresh, well-prepared Indian/Pakistani dishes are complemented by friendly service and a cosy setting. Many of Szeged’s restaurants are meat-centric, so vegetarians will appreciate the plentiful meat-free options available here.</string>
+        <string name="tajmahal_location">46.253104, 20.143446</string>
+        <!--CLASSIC CAFE SERBIAN GRILL GARDEN-->
+        <string name="classiccafe_name">Classic Café Serbian &amp; Grill Garden</string>
+        <string name="classiccafe_address">Széchenyi square 5.</string>
+        <string name="classiccafe_description">Classic Cafe Serbian &amp; Grill Garden restaurant in the city of Szeged is known for its high-quality dishes, such as the chevap, the pljeskavica burger or the gourmet pljeskavica, roasted peppers, roasted lamb, and the location is both suitable for a business lunch or a romantic dinner.\nThe menu is inspired by the Serbian cuisine. Following the original Serbian traditions, a food range has been created, to serve with a new culinary experience and enrich the life of people living and visiting the city of Szeged.</string>
+        <string name="classiccafe_location">46.254623, 20.150766</string>
+    <!--STRINGS FOR THE BARS LIST-->
+        <!--SOROK HAZA-->
+        <string name="sorokhaza_name">Sörök háza</string>
+        <string name="sorokhaza_address">Feketesas street 20.</string>
+        <string name="sorokhaza_description">Perfect place with beers, which I couldn’t get in Hungary so far (e.g. Gouden Carolus Brewmasters Ed. and Gouden Carolus Whisky infused). The owner has lot of information about beers he sells, so it is a pleasure to talk with him.</string>
+        <string name="sorokhaza_location">46.253160, 20.146564</string>
+        <!--BOHEM TANYA-->
+        <string name="bohemtanya_name">Bohém Tanya</string>
+        <string name="bohemtanya_address">Szentháromság street 6.</string>
+        <string name="bohemtanya_description">Bohém Tanya is mixing the atmosphere of a classic café and a summer festival combined with the fuzz of music clubs. Its alternative cultural and community programs, live music evenings, theater performances and dance groups provide opportunities for quality entertainment several days a week.\nAlong its variety of drinks and specialty coffee it has a home style cuisine and tends to spoil gastronomy lovers with special dishes.</string>
+        <string name="bohemtanya_location">46.247201, 20.145251</string>
+        <!--LOBBY CAFE BISTRO-->
+        <string name="lobby_name">Lobby Café &amp; Bistro</string>
+        <string name="lobby_address">Kárász street 17.</string>
+        <string name="lobby_description">Three types of atmosphere in one single place: Café, Bistro, Art Gallery.\nThe subtle luxury, coffee trends, gastronomy, art and business meet in the pedestrian street of Szeged, in the former Gallery exhibition hall. Tradition oblige: The Lobby Café remains a fine art exhibition space.\nLobby Café could be implemented by the „lobbying” activities of economists, lawyers, interior designers, planners, engineers, graphic designers, carpenters and many others.\nThe gastronomy is characterized by high quality, delicious tastes.</string>
+        <string name="lobby_location">46.250763, 20.146241</string>
+        <!--CAMPUS BEER MORE-->
+        <string name="campus_name">Campus Beer&amp;More</string>
+        <string name="campus_address">Vitéz street 24.</string>
+        <string name="campus_description">Campus building is finally taken possession opposite to the TIC building, let the semester begin! The beer taps commissioned, refrigerators are filled and the coffee machine turned on.</string>
+        <string name="campus_location">46.247600, 20.143102</string>
+        <!--HUNGI VIGADO-->
+        <string name="hungi_name">Hungi Vigadó</string>
+        <string name="hungi_address">Stefánia street</string>
+        <string name="hungi_description">Hungi in Szeged awaits its guests with renewed cuisine and gastro programs. If you are a fan of the youthful, street food style dishes. The restaurant\'s chefs are busy every week on a more colorful daily special to be included in their a la carte offer.\nHungi can provide for a elegant location that caters for all needs of conferences, business meetings, lectures, family events and weddings.\nThe professional service with modern technical background, the diversity of the food and drink supply is to ensure the success of the events.</string>
+        <string name="hungi_location">46.254315, 20.152941</string>
+        <!--VITRIN KAVEZO SORKERT-->
+        <string name="vitrin_name">Vitrin Kávézó és Sörkert</string>
+        <string name="vitrin_address">Apáthy István street 1.</string>
+        <string name="vitrin_description">Vitrin Cafe and Beer Garden is offering to its guests  delicious coffee, specialty coffee, teas  in the morning, at noon great sandwiches and burgers, smoothies and frappe in the afternoon, and  beers, wines, beer specialties, short drinks are served in the evening.</string>
+        <string name="vitrin_location">46.249016, 20.148244</string>
+</resources>

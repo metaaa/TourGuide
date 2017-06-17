@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/detailed_image"
+            style="@style/detailed_image"
+            tool:src="@drawable/annaspring"/>
+
+        <TextView
+            android:id="@+id/detailed_name"
+            style="@style/detailed_name"
+            tool:text="@string/annaspring_name"/>
+
+        <TextView
+            android:id="@+id/detailed_description"
+            style="@style/detailed_description"
+            tool:text="@string/annaspring_description"/>
+
+        <LinearLayout
+            android:id="@+id/detailed_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                style="@style/detailed_location"
+                android:src="@drawable/ic_directions_black_24dp"/>
+
+            <TextView
+            android:id="@+id/detailed_address"
+            style="@style/detailed_address"
+            tool:text="@string/annaspring_address"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
